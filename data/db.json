@@ -1,0 +1,16 @@
+{
+  "employee": [
+    {
+      "name": "akash bind",
+      "email": "akashbind12@gmail.com",
+      "phone": "7303425283",
+      "dob": "2022-08-10",
+      "gender": "male",
+      "hobbies": [
+        "Travelling",
+        "Playing"
+      ],
+      "id": 1
+    }
+  ]
+}
